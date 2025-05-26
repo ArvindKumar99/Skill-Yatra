@@ -1,6 +1,6 @@
-- Open **ETL_SkillYatra_workflow.yxmd** in Alteryx to process and export the cleaned data file.
+- Open ETL_SkillYatra_workflow.yxmd in Alteryx to process and export the cleaned data file.
 
-- Open **SkillYatra_dashboard.pbix** in Power BI Desktop.
+- Open SkillYatra_dashboard.pbix in Power BI Desktop.
 
 - Refresh the data source if needed to link the updated data file.
 
